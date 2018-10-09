@@ -4,7 +4,7 @@
 
 > Práctica 1: Tema 04. Conceptos Basicos de Concurrencia en Java - Acabada
 
-> Práctica 2:
+> Práctica 2: Tema 04. Conceptos Basicos de Concurrencia en Java - En proceso
 
 > Práctica 3:
 
