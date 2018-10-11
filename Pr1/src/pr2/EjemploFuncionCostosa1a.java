@@ -110,7 +110,7 @@ class EjemploFuncionCostosa1a {
     System.out.println( "Suma del vector X:          " + sumaX );
     System.out.println( "Suma del vector Y:          " + sumaY );
 
-
+    System.out.println("Incremento ciclico: "+tt/ttc);
     System.out.println( "Fin del programa con ---Distribucion ciclica---." );
     // --------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ class EjemploFuncionCostosa1a {
     System.out.println( "Suma del vector X:          " + sumaX );
     System.out.println( "Suma del vector Y:          " + sumaY );
 
-
+    System.out.println("Incremento ciclico: "+tt/ttb);
     System.out.println( "Fin del programa con ---Distribucion bloques---." );
     // --------------------------------------------------------------------------
   
